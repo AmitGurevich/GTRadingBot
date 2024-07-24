@@ -1,4 +1,4 @@
-<h6>stock and crypto trading bot using pine script</h6>
+<h1>stock and crypto trading bot using pine script</h1>
 
 *Please read this disclaimer carefully before using the trading bot.*
 
